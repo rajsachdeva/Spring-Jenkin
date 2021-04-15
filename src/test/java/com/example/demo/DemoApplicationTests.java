@@ -10,8 +10,8 @@ class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Test cases executing");
-		System.out.println("Test cases executing again for confirm the build");
+		System.out.println("Test cases executing...");
+		System.out.println("Test cases executing again for confirm the build...");
 		assertEquals(true, true);
 	}
 }
